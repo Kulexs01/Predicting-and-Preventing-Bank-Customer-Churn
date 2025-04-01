@@ -88,4 +88,4 @@ Power Query: Data cleaning and preparation.
 
 SQL: Data analysis and churn risk scoring ().
 
-Tableau: Data visualization ([Dashboard](https://public.tableau.com/app/profile/olakunle.olanrewaju/viz/HistoricalStocksPerformance/Story1)).
+Tableau: Data visualization ([Dashboard](https://public.tableau.com/views/BankCustomerChurnProject_17416143158830/PredictingandPreventingBankCustomerChurn?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)).
